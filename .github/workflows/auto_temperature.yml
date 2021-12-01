@@ -24,7 +24,7 @@ jobs:
         INFORM: ${{ secrets.INFORM }}
       run: |
         sudo apt-get install python3-setuptools -y
-        git clone https://github.com/quzard/SEU_Action_Report.git
-        cp -r SEU_Action_Report/* .
+        git clone https://github.com/WCY-dt/SEU-I-am-Healthy.git
+        cp -r SEU-I-am-Healthy/* .
         pip3 install -r requirements.txt
         python3 auto_temperature_post.py

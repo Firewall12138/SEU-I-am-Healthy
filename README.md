@@ -1,7 +1,7 @@
-# SEU_Action_Report
+# SEU-I-am-Healthy
 
-![Stars](https://img.shields.io/github/stars/quzard/SEU_Action_Report.svg)
-![Forks](https://img.shields.io/github/forks/quzard/SEU_Action_Report.svg)
+![Stars](https://img.shields.io/github/stars/WCY-dt/SEU-I-am-Healthy.svg)
+![Forks](https://img.shields.io/github/forks/WCY-dt/SEU-I-am-Healthy.svg)
 
 ## 支持的功能
 
